@@ -22,7 +22,7 @@ public class StrongNo {
 
         }
         if(sum==temp){
-        System.out.println("strong no");
+            System.out.println("strong no");
         }else{
             System.out.println("not strong number");
         }
